@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ITverket.Fagdag.Demo.Service</id>
-    <title>ITverket.Fagdag.Demo.Service</title>
+    <id>ITverket.Fagdag.Demo.Web</id>
+    <title>ITverket.Fagdag.Demo.Web</title>
     <authors>Ole Andreas Rydland</authors>
     <owners>Ole Andreas Rydland</owners>
-    <description>Service for demo project</description>
+    <description>Web project for demo project</description>
     <version>1.0.0.0</version>
   </metadata>
   <files>
