@@ -1,1 +1,3 @@
-﻿Write-Host "Running deploy"
+﻿$Environment = $OctopusParameters['Octopus.Environment.Name']
+
+Write-Host "Running deploy in $Environment"
