@@ -1,1 +1,1 @@
-﻿Write-Host "Deploy finished"
+﻿Write-Host "DEPLOYMENT IS NOW FINISHED"

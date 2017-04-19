@@ -1,1 +1,1 @@
-﻿Write-Host "Start deploy"
+﻿Write-Host "THIS IS BEFORE THE DEPLOYMENT"
