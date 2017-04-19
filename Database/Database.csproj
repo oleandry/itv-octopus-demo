@@ -42,5 +42,12 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Deploy.ps1" />
+    <None Include="DeployedFail.ps1" />
+    <None Include="PreDeploy.ps1" />
+    <None Include="PostDeploy.ps1" />
+    <None Include="Database.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

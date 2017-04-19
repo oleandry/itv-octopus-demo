@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ITverket.Fagdag.Demo.Service</id>
+    <title>ITverket.Fagdag.Demo.Service</title>
+    <authors>Ole Andreas Rydland</authors>
+    <owners>Ole Andreas Rydland</owners>
+    <description>Service for demo project</description>
+    <version>1.0.0.0</version>
+  </metadata>
+  <files>
+    <file src="PostDeploy.ps1" target="PostDeploy.ps1" />
+    <file src="Deploy.ps1" target="Deploy.ps1" />
+    <file src="DeployedFail.ps1" target="DeployedFail.ps1" />
+    <file src="PreDeploy.ps1" target="PreDeploy.ps1" />
+    <file src="bin\**" target="" />
+  </files>
+</package>
