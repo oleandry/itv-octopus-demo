@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Deploy.ps1" />
-    <Content Include="DeployedFail.ps1" />
+    <Content Include="DeployFailed.ps1" />
     <Content Include="PreDeploy.ps1" />
     <Content Include="PostDeploy.ps1" />
     <Content Include="Database.nuspec" />

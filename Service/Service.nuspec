@@ -11,7 +11,7 @@
   <files>
     <file src="PostDeploy.ps1" target="PostDeploy.ps1" />
     <file src="Deploy.ps1" target="Deploy.ps1" />
-    <file src="DeployedFail.ps1" target="DeployedFail.ps1" />
+    <file src="DeployFailed.ps1" target="DeployedFail.ps1" />
     <file src="PreDeploy.ps1" target="PreDeploy.ps1" />
     <file src="bin\**" target="" />
   </files>

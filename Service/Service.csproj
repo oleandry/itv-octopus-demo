@@ -45,7 +45,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <Content Include="Deploy.ps1" />
-    <Content Include="DeployedFail.ps1" />
+    <Content Include="DeployFailed.ps1" />
     <Content Include="PostDeploy.ps1" />
     <Content Include="PreDeploy.ps1" />
     <Content Include="Service.nuspec" />
